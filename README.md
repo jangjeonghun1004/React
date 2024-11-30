@@ -43,4 +43,13 @@
 
     # TypeScript에서 Node.js 모듈을 쓸 수 있는 환경 구축 
         > npm i @types/node
-        
+
+# 기타 확장 프로그램
+
+    IDE 확장 프로그램
+    Material Icon Theme - Philipp Kief
+
+    브라우저 확장 프로그램
+    React Developer Tools
+
+
