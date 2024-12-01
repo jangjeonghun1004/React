@@ -47,7 +47,8 @@
 # 기타 확장 프로그램
 
     IDE 확장 프로그램
-    Material Icon Theme - Philipp Kief
+    Material Icon Theme -BY Philipp Kief
+    ES7+ React/Redux/React-Native snippets -BY dsznajder
 
     브라우저 확장 프로그램
     React Developer Tools
