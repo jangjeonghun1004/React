@@ -1,4 +1,4 @@
-# FrontEnd 프로젝트 구축
+# React 프로젝트
 
     # Visual Studio Code 설치
         https://code.visualstudio.com/
@@ -8,13 +8,10 @@
         https://nodejs.org/en
 
 
-    # Vite 생성
+    # Vite /vit/
         프론트엔드 빌드 도구입니다.
-
         > npm crate vite@latest
-            ✔ Project name: … vite-project
-            ✔ Select a framework: › React
-            ✔ Select a variant: › TypeScript
+
 
     # React Router 설치
         클라이언트 사이드 라우팅을 구현하기 위한 라이브러리입니다.
